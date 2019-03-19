@@ -8,7 +8,7 @@ def bubble_sort(items):
     if count == 0:
         return items
     else:
-        return bubbleSort(items)
+        return bubble_sort(items)
 
 def merge_sort(items):
     """Return array of items, sorted in ascending order"""
