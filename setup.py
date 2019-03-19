@@ -8,7 +8,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/vthavhiwa/myhackathon',
+    url='https://github.com/vthavhiwa/myhackathon.git',
     author='Vhutshilo Thavhiwa',
     author_email='vthavhiwa@gmail.com'
 )
